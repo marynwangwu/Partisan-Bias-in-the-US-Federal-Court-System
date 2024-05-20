@@ -1,4 +1,6 @@
-# us-court-partisan-bias
+# Partisan Bias in the US Federal Court System
+By Mary Nwangwu, [Allison Redfern](https://github.com/allisonredfern), and [Annabelle Huether](https://github.com/annabellehuether)
+
 Notes: 
 <br>*All files paths will need to be updated in scripts before running
 <br>*Additional files are found in our [GoogleDrive](https://drive.google.com/drive/folders/1FLyUYnxbc8VfNZUw-J5uK30uddR2MNgP?usp=drive_link) 
